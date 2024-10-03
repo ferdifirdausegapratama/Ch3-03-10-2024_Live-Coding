@@ -1,0 +1,21 @@
+{
+  "name": "live-coding-fsw2",
+  "version": "1.0.0",
+  "description": "ini live coding bareng sama Aqsa pake kacamata gengz",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "ferdi_firdaus_ega_pratama": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ferdi Firdaus Ega Pratama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
